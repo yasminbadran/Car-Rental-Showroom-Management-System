@@ -53,6 +53,52 @@ The project uses text files to store and load data:
 - purchases.txt
 - bookings.txt
 
+## Project Structure
+
+```text
+Car-Rental-Showroom-Management-System/
+│
+├── README.md
+├── .gitignore
+│
+├── cpp-core/
+│   ├── ApplicationManager.cpp
+│   ├── ApplicationManager.h
+│   ├── Car.cpp
+│   ├── Car.h
+│   ├── Customer.cpp
+│   ├── Customer.h
+│   ├── FileManager.cpp
+│   ├── FileManager.h
+│   ├── main.cpp
+│   ├── PurchaseOrder.cpp
+│   ├── PurchaseOrder.h
+│   ├── RentalOrder.cpp
+│   ├── RentalOrder.h
+│   ├── TestDriveBooking.cpp
+│   ├── TestDriveBooking.h
+│   ├── UI.cpp
+│   ├── UI.h
+│   ├── User.cpp
+│   └── User.h
+│
+├── data/
+│   ├── bookings.txt
+│   ├── cars.txt
+│   ├── customers.txt
+│   ├── purchases.txt
+│   ├── rentals.txt
+│   └── users.txt
+│
+└── gui/
+    ├── app.py
+    ├── index.html
+    ├── styles.css
+    ├── app.js
+    ├── brand-logos/
+    └── car_photos/
+```
+
 ## GUI
 
 The project includes a simple graphical interface with:
