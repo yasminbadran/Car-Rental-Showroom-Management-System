@@ -110,6 +110,8 @@ The project includes a simple graphical interface with:
 - Test drive booking form
 - Admin dashboard
 
+The GUI files are available in the uploaded `GUI.rar` file.
+
 ## What I Learned
 
 Through this project, I practiced how to build a structured application using C++ and OOP. I also learned how to organize code into multiple files, handle data using text files, and connect the main system logic with a simple GUI.
