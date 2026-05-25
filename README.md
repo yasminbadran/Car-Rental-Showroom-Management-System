@@ -90,13 +90,7 @@ Car-Rental-Showroom-Management-System/
 │   ├── rentals.txt
 │   └── users.txt
 │
-└── gui/
-    ├── app.py
-    ├── index.html
-    ├── styles.css
-    ├── app.js
-    ├── brand-logos/
-    └── car_photos/
+└── ├── GUI.rar
 ```
 
 ## GUI
